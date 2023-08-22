@@ -1,5 +1,4 @@
-Evaluating Data Availability and Quality
-===============================================================================================================
+
 
 Before implementing AI in marketing, it is essential to evaluate the availability and quality of data. In this chapter, we will explore the importance of data evaluation and provide guidance on how to assess data availability and quality.
 
