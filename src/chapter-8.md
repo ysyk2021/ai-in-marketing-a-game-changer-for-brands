@@ -1,5 +1,4 @@
 
-
 As AI continues to transform the marketing industry, measuring its impact on performance is essential to assess effectiveness and make informed decisions. In this chapter, we will explore the importance of measuring AI impact on marketing performance and assessing the effectiveness of AI for marketing.
 
 Assessing the Effectiveness of AI for Marketing

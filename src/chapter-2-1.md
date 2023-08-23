@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has become an increasingly popular buzzword in recent years, but what exactly is it? In this chapter, we will define AI and explore how it can be used in marketing.
 
 Definition of AI

@@ -1,5 +1,4 @@
 
-
 In marketing, AI can be used to automate routine tasks, personalize customer experiences, and optimize marketing campaigns. In this chapter, we will explore the types of AI commonly used in marketing.
 
 Chatbots

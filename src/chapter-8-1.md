@@ -1,5 +1,4 @@
 
-
 As businesses increasingly adopt artificial intelligence (AI) technologies for marketing, it is important to measure the impact of these efforts on marketing performance. In this chapter, we will explore how to assess the effectiveness of AI for marketing and measure its impact on business outcomes.
 
 Defining Business Goals and KPIs
