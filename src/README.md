@@ -10,3 +10,7 @@ This book is intended for marketers, business owners, and anyone interested in u
 So let's dive in and discover how AI can be a game-changer for brands in the world of marketing.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
